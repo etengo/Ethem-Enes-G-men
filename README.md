@@ -1,2 +1,2 @@
-# Ethem-Enes-G-men
-I am interested in cybersecurity, Linux OS, network technologies, SQL and programming. I am hold various certifications in these areas.
+# Ethem-Enes-Gocmen
+I graduated second in my class from the Cyber Security Technology program at Gazi University. I completed a three-month long-term voluntary internship in the IT department of Faf Vana. During this time, I gained both field and office experience. I am interested in cybersecurity, Linux OS, network technologies, and programming, and I hold various certifications in these areas. As someone who is eager to learn and focused on continuously improving my technical skills, I am looking to advance my career in a position where I can contribute effectively.
